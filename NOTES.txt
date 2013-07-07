@@ -1,0 +1,5 @@
+- to install heroku dev tools
+  wget https://toolbelt.heroku.com/install-ubuntu.sh 
+  sh install-ubuntu.sh
+
+
