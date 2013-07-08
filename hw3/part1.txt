@@ -1,1 +1,2 @@
-https://github.com/yanluo/bitstarter,http://salty-badlands-3544.herokuapp.com
+http://github.com/yanluo/bitstarter, http://salty-badlands-3544.herokuapp.com
+
