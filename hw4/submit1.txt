@@ -1,1 +1,1 @@
-https://github.com/yanluo/bitstarter/blob/1200194e72d0a28910c1dfa45ce5e7d4ee80f58a/index.html
+https://raw.github.com/yanluo/bitstarter/1200194e72d0a28910c1dfa45ce5e7d4ee80f58a/index.html
